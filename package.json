@@ -1,0 +1,48 @@
+{
+  "name": "j-say",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "workspaces": [
+    "server",
+    "admin"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "seed:convert": "tsx scripts/convert-data.ts",
+    "seed:db": "npm run seed -w server",
+    "seed": "npm run seed:convert && npm run seed:db"
+  },
+  "keywords": [
+    "ielts",
+    "speaking",
+    "practice"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "IELTS Speaking Practice Web App",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "dexie": "^4.4.2",
+    "idb": "^8.0.3",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-router": "^7.15.0",
+    "recharts": "^3.8.1",
+    "zustand": "^5.0.13"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.0",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.2",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "tailwindcss": "^4.3.0",
+    "typescript": "^6.0.3",
+    "vite": "^8.0.12",
+    "vitest": "^4.1.5"
+  }
+}

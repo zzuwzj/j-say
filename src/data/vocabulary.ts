@@ -1,0 +1,24 @@
+import type { Vocabulary } from '@/types';
+
+export const builtInVocabulary: Omit<Vocabulary, 'id'>[] = [
+  { word: 'articulate', definition: 'able to express ideas clearly and effectively', example: 'She is very articulate when presenting her ideas.', category: 'education', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'coherent', definition: 'logical and consistent', example: 'His argument was coherent and well-structured.', category: 'education', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'fluent', definition: 'able to speak smoothly and easily', example: 'She is fluent in three languages.', category: 'education', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'inevitable', definition: 'certain to happen; unavoidable', example: 'Change is inevitable in any organization.', category: 'society', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'controversial', definition: 'causing disagreement or discussion', example: 'The new policy is highly controversial.', category: 'society', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'prevalent', definition: 'widespread; common at a particular time', example: 'Smartphones are prevalent in modern society.', category: 'technology', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'deteriorate', definition: 'to become worse', example: 'Air quality has deteriorated in many cities.', category: 'society', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'subsequently', definition: 'afterwards; later', example: 'He was injured and subsequently missed the final exam.', category: 'education', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'fundamentally', definition: 'in a basic and important way', example: 'The two approaches are fundamentally different.', category: 'education', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'predominantly', definition: 'mostly; mainly', example: 'The audience was predominantly young people.', category: 'society', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'authentic', definition: 'genuine; real and not false', example: 'The restaurant serves authentic Italian cuisine.', category: 'culture', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'conventional', definition: 'based on what is traditionally done', example: 'He chose the conventional career path.', category: 'society', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'innovative', definition: 'introducing new ideas or methods', example: 'The company is known for its innovative products.', category: 'technology', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'sustainable', definition: 'able to be maintained over a long period', example: 'We need more sustainable ways of living.', category: 'society', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'versatile', definition: 'able to adapt to many different functions', example: 'She is a versatile musician who plays several instruments.', category: 'person', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'detrimental', definition: 'harmful; causing damage', example: 'Smoking is detrimental to your health.', category: 'society', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'facilitate', definition: 'to make something easier or possible', example: 'Technology can facilitate communication between people.', category: 'technology', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'perspective', definition: 'a particular way of thinking about something', example: 'Travel helps you see things from a different perspective.', category: 'experience', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'accommodate', definition: 'to provide space or room for', example: 'The hotel can accommodate up to 200 guests.', category: 'place', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+  { word: 'commemorate', definition: 'to remember and honour an event or person', example: 'A ceremony was held to commemorate the anniversary.', category: 'event', relatedTopicIds: [], isCustom: false, isFavorite: false, createdAt: 0 },
+];

@@ -6,9 +6,9 @@
 
 **Preview**: <https://renderofficedev.alipay.com/p/ai-pages/6778d001/index.html>
 
-![Home](./docs/screenshots/home.png)
-![Topics](./docs/screenshots/topics.png)
-![Practice](./docs/screenshots/practice.png)
+![Home](https://mdn.alipayobjects.com/huamei_fosngp/afts/img/A*c8mQQJCQLOMAAAAAQgAAAAgAehyxAQ/original)
+![Topics](https://mdn.alipayobjects.com/huamei_fosngp/afts/img/A*LFELQLYHn4cAAAAAQcAAAAgAehyxAQ/original)
+![Practice](https://mdn.alipayobjects.com/huamei_fosngp/afts/img/A*vjHwTrk1zd0AAAAAQLAAAAgAehyxAQ/original)
 
 ## Overview
 

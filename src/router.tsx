@@ -1,4 +1,4 @@
-import { createBrowserRouter } from 'react-router';
+import { createHashRouter } from 'react-router';
 import { AppLayout } from '@/components/layout/AppLayout';
 import { PracticeLayout } from '@/components/layout/PracticeLayout';
 import { HomePage } from '@/pages/Home/HomePage';
@@ -13,7 +13,7 @@ import { VocabListPage } from '@/pages/Vocabulary/VocabListPage';
 import { Dashboard } from '@/pages/Stats/Dashboard';
 import { SettingsPage } from '@/pages/Settings/SettingsPage';
 
-export const router = createBrowserRouter([
+export const router = createHashRouter([
   {
     element: <AppLayout />,
     children: [

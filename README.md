@@ -8,6 +8,7 @@
 
 ![Home](./docs/screenshots/home.png)
 ![Topics](./docs/screenshots/topics.png)
+![Practice](./docs/screenshots/practice.png)
 
 ## Overview
 

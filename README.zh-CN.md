@@ -8,6 +8,7 @@ English: [README.md](./README.md)
 
 ![首页](./docs/screenshots/home.png)
 ![题库](./docs/screenshots/topics.png)
+![练习](./docs/screenshots/practice.png)
 
 ## 项目简介
 

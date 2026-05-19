@@ -6,9 +6,9 @@ English: [README.md](./README.md)
 
 **预览地址**: <https://renderofficedev.alipay.com/p/ai-pages/6778d001/index.html>
 
-![首页](https://mdn.alipayobjects.com/huamei_fosngp/afts/img/A*c8mQQJCQLOMAAAAAQgAAAAgAehyxAQ/original)
-![题库](https://mdn.alipayobjects.com/huamei_fosngp/afts/img/A*LFELQLYHn4cAAAAAQcAAAAgAehyxAQ/original)
-![练习](https://mdn.alipayobjects.com/huamei_fosngp/afts/img/A*vjHwTrk1zd0AAAAAQLAAAAgAehyxAQ/original)
+![首页](https://mdn.alipayobjects.com/huamei_sbpgls/afts/img/A*iQZaRKeVOGsAAAAAQgAAAAgAepKTAQ/original)
+![题库](https://mdn.alipayobjects.com/huamei_sbpgls/afts/img/A*azgIQKHiT5AAAAAAQcAAAAgAepKTAQ/original)
+![练习](https://mdn.alipayobjects.com/huamei_sbpgls/afts/img/A*qbPlQKmuntUAAAAAQLAAAAgAepKTAQ/original)
 
 ## 项目简介
 

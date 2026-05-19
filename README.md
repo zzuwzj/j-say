@@ -6,6 +6,9 @@
 
 **Preview**: <https://renderofficedev.alipay.com/p/ai-pages/6778d001/index.html>
 
+![Home](./docs/screenshots/home.png)
+![Topics](./docs/screenshots/topics.png)
+
 ## Overview
 
 J-Say is a PC web app for IELTS candidates and English learners. It faithfully reproduces the three-part IELTS Speaking exam flow, with built-in recording, speech recognition, examiner-style TTS, self-scoring, and a local practice history. The core app runs entirely in the browser with IndexedDB storage — no account, no server required. An optional admin backend (`server/` + `admin/`) is provided for maintaining the corpus and pushing updates to clients.

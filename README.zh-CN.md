@@ -6,6 +6,9 @@ English: [README.md](./README.md)
 
 **预览地址**: <https://renderofficedev.alipay.com/p/ai-pages/6778d001/index.html>
 
+![首页](./docs/screenshots/home.png)
+![题库](./docs/screenshots/topics.png)
+
 ## 项目简介
 
 J-Say 是一款面向雅思考生和英语学习者的 PC Web 应用，完整还原雅思口语考试三部分流程，内置录音、语音识别、模拟考官 TTS、四维度自评和本地练习历史。主应用纯前端运行，数据存储在浏览器 IndexedDB 中，**无需注册、无需服务端**。同时提供可选的语料后台（`server/` + `admin/`），用于在线维护题库并向客户端推送更新。
